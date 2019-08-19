@@ -1,0 +1,38 @@
+package Exerc1;
+
+public class Sinal {
+
+		
+				
+			boolean Aberto;
+			
+			void Sinalizacao() {
+				
+				if ( Aberto == true )
+					
+					System.out.println(" Atravesse ");
+				
+				else
+					
+					System.out.println("Pare Aguarde");
+			}
+		
+			void Abrir () {
+				
+			}
+			
+			void Fechar() {
+				
+			}
+			       
+								
+	       void status() {
+	    	   
+	    	   System.out.println("Classe Sinal");
+	    	 
+				
+			}
+			
+	          	   
+	    	   
+	       }
